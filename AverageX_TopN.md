@@ -12,3 +12,4 @@
      Média dos 3 menores = AVERAGEX(TOPN(3;fDados;fDadps[VALOR VENDA];ASC);fDados[VALOR VENDA]))
 
      ```
+* [Link da Vídeo Aula](https://www.youtube.com/watch?v=o130bOTwdfs&list=PLWfPHxJoa7zvhuFU0saAaZsCVkrjDRGaN&index=2)
