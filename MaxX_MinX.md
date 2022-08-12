@@ -17,3 +17,4 @@
     
     Ex2: Menor Lucro = MINX(fDados;(fDados[Preço Unitário]*[fDados[Quantidade])*(fDados[Margem Produto]-fDados[Desconto]))
     ```
+* [Link da Vídeo Aula](https://www.youtube.com/watch?v=4F9aixN-EiM&list=PLWfPHxJoa7zvhuFU0saAaZsCVkrjDRGaN&index=1)
