@@ -14,3 +14,4 @@ Receita Acumulada (Trimestre) = CALCULATE([Receita Total];DATESQTD(dCalendario[D
 
 Receita Acumulada (Mês) = CALCULATE([Receita Total];DATESMTD(dCalendario[Data_Base]))
 ```
+* [Link da Vídeo Aula](https://docs.microsoft.com/pt-br/dax/datesytd-function-dax)
