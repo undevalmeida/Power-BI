@@ -1,4 +1,4 @@
-># USEREALATIONSHIP
+># USERELATIONSHIP
 * A função não retornará nenhum valor, mas apenas habilitará a relação indicada durante o cálculo.
   ```
     =USERELATIONSHIP(<columnName1>,<columnName2>)
