@@ -3,10 +3,10 @@
   ```
    = SWITCH(<expression>, <value>, <result>[, <value>, <result>]…[, <else>])
    
-   Ex: =SWITCH(fDados[Filial];"FILIAL A";"REGIONAL 1";"FILIAL B"; "REGIONAL 1"; "FILIAL C"; "REGIONAL 3";...)
+   Ex: =SWITCH(fDados[Filial],"FILIAL A","REGIONAL 1","FILIAL B", "REGIONAL 1", "FILIAL C", "REGIONAL 3",...)
    
    
-   Ex 2: =SWITCH(TRUE();[VALOR_VENDAS]<500;"NÃO HÁ PRÊMIOS";[VALOR_VENDA]<1000;"UM INGRESSO PARA SHOW";[VALOR_VENDAS]<3000;"CELULAR";"TV DE 50 POLEGADAS")
+   Ex 2: =SWITCH(TRUE(),[VALOR_VENDAS]<500,"NÃO HÁ PRÊMIOS",[VALOR_VENDA]<1000,"UM INGRESSO PARA SHOW",[VALOR_VENDAS]<3000,"CELULAR","TV DE 50 POLEGADAS")
    Para o exmeplo 2. O momento em que atribuimos o 'TRUE()' você pode utilizar o 'SWITCH' como verificação de verdadeiro ou falso, assim, 
    sendo possível verificar se o vendedor tem direito ou não a prêmios.
   ```

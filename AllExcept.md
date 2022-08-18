@@ -3,7 +3,7 @@
   ```
     = ALLEXCEPT(<table>,<column>[,<column>[,…])
 
-    Ex: Total Geral Ano=CALCULATE([TOTAL VENDAS];ALLEXCEPT(fDados;fDados[Ano]))
+    Ex: Total Geral Ano=CALCULATE([TOTAL VENDAS],ALLEXCEPT(fDados;fDados[Ano]))
     
     O 'Alexcept' está removendo todos os filtros do contexto exceto da coluna '[Ano]'
   ```

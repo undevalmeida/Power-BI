@@ -4,7 +4,7 @@
   ```
   VALUES(<TableNameOrColumnName>)
 
-  Ex: Total Taxa sem 2005=IF(COUNTROWS(VALUES(dCalendario[Ano]))=1;IF(VALUES(dCalendario[Ano])=2005;BLANK();[Total Taxas]);BLANK())
+  Ex: Total Taxa sem 2005=IF(COUNTROWS(VALUES(dCalendario[Ano]))=1,IF(VALUES(dCalendario[Ano])=2005,BLANK(),[Total Taxas]),BLANK())
 
   ```
 * [Link Vídeo Aula](https://www.youtube.com/watch?v=U_iOk3lhgfQ&list=PLWfPHxJoa7zvhuFU0saAaZsCVkrjDRGaN&index=3)
