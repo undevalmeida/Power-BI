@@ -2,7 +2,7 @@
 * Retorna a mediana dos números de uma coluna.
   ```
     =MEDIAN(<Column>)
-
+    Ex: =Ticket Mediano=MEDIAN(fDados[VLR VENDAS])
 
     =MEDIANX(<Tabela>, <Expressão>)
     Ex: Ticket Mediano Power=medianx(fDados, fDados[VLRUNIT]*fDados[QUANTIDADE])
