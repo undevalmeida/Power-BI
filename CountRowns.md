@@ -1,4 +1,4 @@
-># COUNTROWNS
+># COUNTROWS
 * A função COUNTROWS conta o número de linhas na tabela especificada ou em uma tabela definida por uma expressão.
   ```
     =COUNTROWS([<table>])
