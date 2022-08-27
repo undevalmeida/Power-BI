@@ -5,5 +5,7 @@
     Diferenca = DATADIFF(MIN(Calendario[Date]), TODAY(), DAY)
 
     Diferenca2 = DATADIFF(MIN(Calendario[Date]),DATE(2022,8,29), MONTHER)
+
+    Diferenca3 = DATADIFF(TODAY(),SELECTEDVALUE(Calendarop[Date]), DAY)
    ```
 * [Link da vídeo Aula](https://www.youtube.com/watch?v=WoGAjQWBEGo)
