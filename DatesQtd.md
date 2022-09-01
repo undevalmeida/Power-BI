@@ -3,4 +3,4 @@
     ```
     DATESQTD(<dates>)
     ```
-* [Link da vídeo aula]()
+* [Link da vídeo aula](https://www.youtube.com/watch?v=e2xUzIwOJrw)
